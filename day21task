@@ -1,0 +1,19 @@
+*what is decorator?
+-->A decorator is a design pattern that allows you to modify the functionality of a function by wrapping it in another function.The outer function is called the decorator,
+    which takes the original function as an argument and returns a modified version of it. 
+
+  *Why we use decorators?
+ --> Python that allows you to modify or extend the behavior of functions or methods without changing their actual code. They are an excellent way to apply reusable functionality across multiple functions,
+    such as timing, caching, logging, or authentication.
+
+      *what is setter method?
+--> In Python, a setter method is a method used in object-oriented programming to set the value of an attribute in a class. It's commonly used as part of the property mechanism to provide controlled access
+    to class attributes.Setter methods are typically used to enforce certain conditions or validation rules when setting the value of an attribute.
+   
+    setter--> set the value of private variables or it helps to  make changes in private attributes/variables. 
+
+  *What is getter method?
+--> It is a method used in object-oriented programming to retrieve the value of an attribute in a class. It's commonly used as part of the property mechanism to provide controlled
+     access to class attributes. Getter methods are typically used to perform any necessary operations or calculations before returning the attribute value.
+    
+     getter--> return the value or it helps to access the private attributes.
